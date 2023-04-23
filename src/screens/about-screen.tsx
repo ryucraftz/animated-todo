@@ -79,7 +79,7 @@ const AboutScreen = () => {
             colorScheme="purple"
             size="lg"
             borderRadius="full"
-            href="https://twitter.com/ryucraftz?s=20"
+            href="https://ryucraftz-homepage.vercel.app/"
             leftIcon={
               <Icon as={Feather} name="external-link" size="sm" opacity={0.5} />
             }
