@@ -11,7 +11,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/ed9e7740-39da-424e-b585-faaec28335fb"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -34,6 +35,9 @@
         "projectId": "ed9e7740-39da-424e-b585-faaec28335fb"
       }
     },
-    "owner": "kiritosao"
+    "owner": "kiritosao",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
   }
 }

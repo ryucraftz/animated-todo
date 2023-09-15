@@ -10,12 +10,12 @@ import NavBar from '../components/navbar'
 const initialData = [
   {
     id: shortid.generate(),
-    subject: 'Buy movie tickets for Friday',
+    subject: 'Binge watch One Piece 12pm',
     done: false
   },
   {
     id: shortid.generate(),
-    subject: 'Make a React Native tutorial',
+    subject: 'Make a React Native Repo',
     done: false
   }
 ]
