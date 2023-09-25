@@ -84,7 +84,7 @@ const AboutScreen = () => {
               <Icon as={Feather} name="external-link" size="sm" opacity={0.5} />
             }
           >
-            https://ryucraftz-homepage.vercel.app/
+            https://www.ryucraftz.tech/
           </LinkButton>
         </VStack>
       </ScrollView>
